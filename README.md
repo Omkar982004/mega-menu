@@ -49,15 +49,15 @@ This project is a **sample implementation** of a dynamic **Mega Menu** component
 
 ## 🗂️ Project Structure
 
--- mega-menu 
---    -> images
---    -> screenshots
---    -> scripts
---            ->featureData.js
---            ->index.js
---            ->pricing.js
---            ->resourcesData.js
---    -> styles
---            ->styles.css
---    -> index.html
---   -> readme.md
+- mega-menu 
+-    -> images
+-    -> screenshots
+-    -> scripts
+-            ->featureData.js
+-            ->index.js
+-            ->pricing.js
+-            ->resourcesData.js
+-    -> styles
+-            ->styles.css
+-    -> index.html
+-   -> readme.md
