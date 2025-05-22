@@ -10,6 +10,22 @@ This project is a **sample implementation** of a dynamic **Mega Menu** component
 
 ---
 
+## 🖼️ Screenshots
+
+### 💡 Landing Section
+![Landing](./screenshots/img1.png)
+
+### 🧮 Features Dropdown
+![Features Dropdown](./screenshots/img2.png)
+
+### 📊 Pricing Dropdown
+![Pricing Dropdown](./screenshots/img3.png)
+
+### 📚 Resources Dropdown
+![Resources Dropdown](./screenshots/img4.png)
+
+---
+
 ## 🧩 Key Features
 
 - **Dynamic Mega Menu** with hover-triggered multi-column dropdowns
@@ -28,22 +44,6 @@ This project is a **sample implementation** of a dynamic **Mega Menu** component
 - 📁 **Centralized Data Management:** Data files like `featureData.js`, `pricing.js`, and `resourcesData.js` contain all content logic — making updates and debugging faster and more manageable.
 - 🔄 **Easier Future Scaling:** Adding or removing menu sections only requires editing a data file, not rewriting UI logic.
 - 🧩 **Reusable Rendering Logic:** Common functions and rendering logic are written once and reused across sections.
-
----
-
-## 🖼️ Screenshots
-
-### 💡 Landing Section
-![Landing](./screenshots/img1.png)
-
-### 🧮 Features Dropdown
-![Features Dropdown](./screenshots/img2.png)
-
-### 📊 Pricing Dropdown
-![Pricing Dropdown](./screenshots/img3.png)
-
-### 📚 Resources Dropdown
-![Resources Dropdown](./screenshots/img4.png)
 
 ---
 
