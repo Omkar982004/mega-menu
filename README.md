@@ -6,7 +6,7 @@ This project is a **sample implementation** of a dynamic **Mega Menu** component
 
 ## 🔗 Live Demo
 
-👉 [View Live Project]([https://mega-menu-two.vercel.app/])
+👉 [View Live Project](https://mega-menu-two.vercel.app/)
 
 ---
 
@@ -49,20 +49,11 @@ This project is a **sample implementation** of a dynamic **Mega Menu** component
 
 ## 🗂️ Project Structure
 
-mega-menu/
-├── images/                  # Contains all image assets used in the menu
-├── screenshots/             # Contains project screenshots for README
-│   ├── img1.png
-│   ├── img2.png
-│   ├── img3.png
-│   └── img4.png
-├── scripts/                 # All JavaScript files for rendering dynamic content
-│   ├── featureData.js       # Data for the Features dropdown
-│   ├── pricing.js           # Data for the Pricing dropdown
-│   ├── resourcesData.js     # Data for the Resources dropdown
-│   └── index.js             # Main script handling rendering and events
-├── styles/                  # Contains all CSS styles
-│   └── styles.css
-├── index.html               # Main HTML file
-└── README.md                # Project documentation
+<pre><code>## 🗂️ Project Structure ``` mega-menu/ ├── images/ # Contains all image assets used in the menu ├── screenshots/ # Contains project screenshots for README │ ├── img1.png │ ├── img2.png │ ├── img3.png │ └── img4.png ├── scripts/ # All JavaScript files for rendering dynamic content │ ├── featureData.js # Data for the Features dropdown │ ├── pricing.js # Data for the Pricing dropdown │ ├── resourcesData.js # Data for the Resources dropdown │ └── index.js # Main script handling rendering and events ├── styles/ # Contains all CSS styles │ └── styles.css ├── index.html # Main HTML file └── README.md # Project documentation ``` </code></pre>
 
+## 📌 Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
+- Vercel (for deployment)  
